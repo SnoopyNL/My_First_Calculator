@@ -1,11 +1,13 @@
 package com.sdesign.snoopy.my_first_calculator
 
-import android.support.v7.app.AppCompatActivity
+
 import android.os.Bundle
 import android.view.View
 import android.widget.Button
 import android.widget.TextView
-import com.sdesign.snoopy.my_first_calculator.R.*
+import androidx.appcompat.app.AppCompatActivity
+import com.sdesign.snoopy.my_first_calculator.R.id
+import com.sdesign.snoopy.my_first_calculator.R.layout
 
 
 class MainActivity : AppCompatActivity() {
